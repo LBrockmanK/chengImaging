@@ -16,6 +16,7 @@ TrainingData
 
 Root Files
 	models.csv : Record of previous training results storing model details for easy review, info will probably be redundant with filename shorthand
+	train.bat to execute training
 
 TODO:
 	Determine model naming convention
