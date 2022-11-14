@@ -22,3 +22,7 @@ TODO:
 	Determine model naming convention
 	Develop model trainers
 	Probably a text or csv file to configure model generation parameters for testing
+
+Resources:
+	Statistics
+		https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
