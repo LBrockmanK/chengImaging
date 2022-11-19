@@ -26,3 +26,17 @@ TODO:
 Resources:
 	Statistics
 		https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+
+Fall Term Scope:
+	Input processing, able to generate all models
+
+Spring Term Scope:
+	Optimizing models
+
+11/17/22 Meeting Notes:
+	Discuss semester plans / Capstone work, out of town
+
+	May want to do something like fourier transform for spectrum data
+	Current scope / schedule plan is good
+	Schedule review once we have data input working
+	Should have some initial data by end of day
